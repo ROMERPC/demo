@@ -6,3 +6,5 @@ Esto es un simple fichero de leer.
 
 Agregamos mas información al fichero para probar la edición de archivos existentes en el git.
 
+Esta línea representa cambios que deberían ser guardados.
+
