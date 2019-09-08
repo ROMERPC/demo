@@ -12,3 +12,7 @@ caritas aquí, cambios para la branch updates.
 
 primer cambio en bad branch
 
+Updates in stage
+
+more updates
+
